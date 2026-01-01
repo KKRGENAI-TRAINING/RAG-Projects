@@ -158,11 +158,9 @@ rag-roadmap/
 - You can work at your own pace, but try to complete one day per day
 - Feel free to revisit previous days if needed
 
-## 🙏 Credits
-
-Created by **Chandra Sekhar**
-
 ---
 
 **Ready to start?** Navigate to `Day01/` and begin your RAG journey! 🚀
+
+**KKRGENAI INNOVATIONS**
 
